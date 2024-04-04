@@ -1,1 +1,1 @@
-# Disease_Binary_classification_DVC_Pipleline
+# Disease_Binary_classification_DVC_Pipeline
